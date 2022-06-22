@@ -1,0 +1,9 @@
+name: app
+
+packages: 
+  - /**
+
+scripts:
+  test_cov:
+    run: melos exec --dir-exists="test" --fail-fast -- flutter test --coverage
+    description: Run tests on packages that contains test folder and generate coverage

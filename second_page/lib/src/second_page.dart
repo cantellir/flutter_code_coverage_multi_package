@@ -11,6 +11,9 @@ class _SecondPageState extends State<SecondPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: const Text('Second page'),
+      ),
       body: SafeArea(
         child: Center(
           child: Column(
