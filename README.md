@@ -26,3 +26,15 @@ There are two scripts configured in melos pubspec:
 - `Melos` to handle packages;
 
 - `lcov` to generate coverage report.
+
+## Additional info
+
+This is the second part of four repositories teaching how to handle code coverage in Flutter APPs:
+
+[Part 1 - Flutter code coverage in a single package app](https://github.com/cantellir/flutter_code_coverage_single_package);
+
+Part 2 - Flutter code coverage in a multi package app;
+
+Part 3 - Github actions to handle Flutter APP minimum coverage;
+
+Part 4 - Integration with CodeCov analysis tool;
