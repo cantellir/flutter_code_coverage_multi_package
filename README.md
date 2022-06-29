@@ -25,7 +25,9 @@ There are two scripts configured in melos pubspec:
 
 - `Melos` to handle packages;
 
-- `lcov` to generate coverage report.
+- `lcov` to generate coverage report;
+
+- Remember to give execute permission on script files.
 
 ## Additional info
 
