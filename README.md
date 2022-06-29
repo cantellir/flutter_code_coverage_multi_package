@@ -1,4 +1,4 @@
-# flutter_code_coverage_multi_package
+# Flutter code coverage in a multi-package app
 
 A simple Flutter project demonstrating how to work with code coverage in a multi-package Flutter APP.
 
@@ -20,3 +20,9 @@ There are two scripts configured in melos pubspec:
 `combine_coverage.sh` is the script responsible for extracting coverage information from each package and writing it into a single `lcov.info` file.
 
 `generate_coverage.sh` is a helper script to run melos scripts and generate an html report.
+
+## Dependencies
+
+- `Melos` to handle packages;
+
+- `lcov` to generate coverage report.
