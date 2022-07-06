@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if ! melos run test_cov; then
-    exit
+    exit 1
 fi
 
 melos run union_cov
