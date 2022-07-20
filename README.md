@@ -35,8 +35,8 @@ This is the second part of four repositories teaching how to handle code coverag
 
 [Part 1 - Flutter code coverage in a single package app](https://github.com/cantellir/flutter_code_coverage_single_package);
 
-Part 2 - Flutter code coverage in a multi package app;
+[Part 2 - Flutter code coverage in a multi package app](https://github.com/cantellir/flutter_code_coverage_multi_package);
 
-Part 3 - Github actions to handle Flutter APP minimum coverage;
+[Part 3 - Github actions to handle Flutter APP minimum coverage](https://github.com/cantellir/flutter_code_coverage_minimum_github_action);
 
 Part 4 - Integration with CodeCov analysis tool;
