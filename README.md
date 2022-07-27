@@ -39,4 +39,4 @@ This is the second part of four repositories teaching how to handle code coverag
 
 [Part 3 - Github actions to handle Flutter APP minimum coverage](https://github.com/cantellir/flutter_code_coverage_minimum_github_action);
 
-Part 4 - Integration with CodeCov analysis tool;
+[Part 4 - Integration with Codecov analysis tool](https://github.com/cantellir/flutter_code_coverage_github_codecov);
